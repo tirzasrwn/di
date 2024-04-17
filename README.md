@@ -16,6 +16,13 @@ $ nest g module cpu
 $ nest g module disk
 $ nest g module power
 $ nest g service computer
+$ nest g service cpu
+$ nest g service disk
+$ nest g service power
+$ nest g controller computer
+$ nest g controller cpu
+$ nest g controller disk
+$ nest g controller power
 ```
 
 ## Installation
